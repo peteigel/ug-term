@@ -1,0 +1,6 @@
+#! /usr/bin/env python3
+
+import sys
+from ug_term import cli
+
+sys.exit(cli.main())
